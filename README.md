@@ -5,6 +5,7 @@ Hi! My name is Kevin Villalba 😄
 <br/>
 
 - 📫 How to reach me **kevinvillalba.dev@gmail.com**
+- <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Currenly Studying Back-End</h3>
 
 ### Skills
 
